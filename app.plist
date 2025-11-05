@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://pub-d6835d4ce3bc428a83538c096bbdc548.r2.dev/ipa/690079453d70e_PUBGMOBILE.ipa</string>
+					<string>https://pub-d6835d4ce3bc428a83538c096bbdc548.r2.dev/ipa/690b887a02ddd_bubg.ipa</string>
 
 				</dict>
 				<dict>
@@ -36,7 +36,7 @@
 				<key>bundle-identifier</key>
 				<string>xg.pubgmobile.xiao</string>
 				<key>bundle-version</key>
-				<string>4.0</string>
+				<string>4.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
